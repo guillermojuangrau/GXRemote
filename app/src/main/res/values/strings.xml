@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GXRemote</string>
+    <string name="connect">Connect</string>
+    <string name="author">App designed by Gollix</string>
+    <string name="volup">Volume up</string>
+    <string name="voldown">Volume down</string>
+    <string name="mute">Mute</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="pause">Pause</string>
+    <string name="ipaddress">Server code:</string>
+</resources>
